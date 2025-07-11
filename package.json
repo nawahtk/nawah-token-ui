@@ -12,9 +12,9 @@
   "author": "Nawah Team",
   "license": "MIT",
   "devDependencies": {
-    "@nomiclabs/hardhat-ethers": "^2.2.5",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
     "dotenv": "^16.3.1",
-    "ethers": "^6.8.1",
+    "ethers": "^5.7.2",
     "hardhat": "^2.22.1"
   }
 }
