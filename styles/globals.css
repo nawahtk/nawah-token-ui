@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Space+Grotesk&display=swap');
+
+:root {
+  --primary: 220 90% 56%;
+  --primary-foreground: 0 0% 100%;
+  --primary-glow: 220 90% 66%;
+
+  --background: 0 0% 100%;
+  --foreground: 220 15% 15%;
+
+  --border: 220 15% 90%;
+}
+
+[data-theme="dark"] {
+  --primary: 220 90% 66%;
+  --primary-foreground: 0 0% 10%;
+  --primary-glow: 220 90% 76%;
+
+  --background: 220 15% 15%;
+  --foreground: 0 0% 100%;
+  --border: 220 15% 30%;
+}
+
+body {
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+  font-family: 'Inter', sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  margin: 0;
+  padding: 0;
+}
