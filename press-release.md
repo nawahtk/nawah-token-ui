@@ -9,7 +9,7 @@
 #### **Nawah Token (NWTK): A Cultural and Financial Revolution in Web3**
 
 **For Immediate Release**
-**Contact:** [team@nawah.io](mailto:team@nawah.io)
+**Contact:** [aalnwyra@gmail.com](mailto:aalnwyra@gmail.com)
 **Project Name:** Nawah Token
 **Ticker:** NWTK
 **Chain:** BNB Smart Chain (BEP-20)
