@@ -198,12 +198,6 @@ Includes educational institutions, supportive banks, women's associations, and y
 * [Tokenomics](./Tokenomics.md)
 * [Security Policy](./SECURITY.md)
 
-```
 
----
-Trigger workflow run at 2025-07-08 14
-
-
-git commit -m "Trigger workflow run
-
-```
+https://github.com/nawahtkui/nawah-token-ui/blob/main/nawah_membership_form.json
+-
